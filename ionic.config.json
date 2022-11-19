@@ -1,0 +1,7 @@
+{
+  "name": "bubble-shooter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
